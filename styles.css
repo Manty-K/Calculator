@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  background-color: #130f40;
+  background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+  position: relative;
+}
+.calculator{
+  font-family: 'Fira Code', monospace;
+}
+
+.top {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.cal_text {
+  font-size: 2rem;
+  width: 100%;
+  margin-bottom: 2%;
+  text-align: right;
+}
+
+.btn {
+  padding: 5% 0;
+  margin-bottom: 5%;
+}
+
+.title {
+  font-size: 5rem;
+  color: white;
+  text-align: center;
+}
+.credits{
+    position: absolute;
+    color: white;
+    bottom: 0;
+    text-align: center;
+}
